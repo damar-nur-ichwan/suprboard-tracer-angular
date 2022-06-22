@@ -1,5 +1,5 @@
+*Developed by Damar Nur Ichwan*
 # SUPRBOARD-TRACER-ANGULAR
-
 ## Prerequisite
 Make sure **JAEGER** or **ZIPKIN** was running.
 
