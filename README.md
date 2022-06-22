@@ -10,7 +10,7 @@ yarn add @jufab/opentelemetry-angular-interceptor
 yarn add @opentelemetry/api @opentelemetry/sdk-trace-web @opentelemetry/sdk-trace-base @opentelemetry/core @opentelemetry/semantic-conventions @opentelemetry/resources @opentelemetry/exporter-trace-otlp-http @opentelemetry/exporter-zipkin @opentelemetry/propagator-b3 @opentelemetry/propagator-jaeger @opentelemetry/context-zone-peer-dep @opentelemetry/instrumentation @opentelemetry/propagator-aws-xray --save-dev
 ```
 2. Open the **src/app** folder
-3. Make a file **suprboard-tracer-angular.ts**, then fill it with the source code of [suprboard-tracer-angular]: ./suprboard-tracer-angular.ts
+3. Make a file **suprboard-tracer-angular.ts**, then fill it with the source code of [suprboard-tracer-angular]: https://github.com/damar-nur-ichwan/suprboard-tracer-angular/blob/main/suprboard-tracer-angular.ts
 4. Adjust the *ZIPKIN_COLLECTOR_URL*, *SERVICE_GROUP*, and *SERVICE_NAME* variables to your needs
 ```ts
 ...
