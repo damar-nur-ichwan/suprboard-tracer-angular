@@ -1,7 +1,7 @@
 *Developed by Damar Nur Ichwan*
 # SUPRBOARD-TRACER-ANGULAR
 ## Prerequisite
-Make sure **JAEGER** or **ZIPKIN** was running.
+Make sure [JAEGER](https://www.jaegertracing.io/) or [ZIPKIN](https://zipkin.io/) was running.
 
 ## Installation
 1. Install all the dependencies needed
